@@ -95,6 +95,7 @@ button:hover {
     margin-top: 85px;
     text-align: center;
     gap: 10x;
+    padding: 10px;
 }
 
 .available_courses {
@@ -113,6 +114,7 @@ button:hover {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
     align-items: start;
+    padding: 30px;
 }
 
 .tstl_head {
@@ -163,4 +165,5 @@ footer {
 .footer_links a {
     padding: 1px;
     margin: 1px;
+    color: white;
 }
